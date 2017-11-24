@@ -2,7 +2,7 @@
 
 A fast, simple application which allows the user to select a movie genre, and subsequently suggests a "top" movie within that genre. It also provides the option to buy on iTunes and shows a movie trailer via a Youtube iframe.
 
-![](Assets/movieSuggestGIF.gif)
+![](ScreenShots/use.gif)
 
 **Key Achievements**
 
@@ -11,9 +11,9 @@ A fast, simple application which allows the user to select a movie genre, and su
 
 **Technologies Used**
 
-![](Assets/HtmlCss.jpg)
-![](Assets/JavascriptLogo.jpg)
-![](Assets/jquery.gif)
+Html/Css
+Javascript
+Jquery
 
 **Developers**
 
