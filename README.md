@@ -17,8 +17,10 @@ Jquery
 
 **Developers**
 
+Kelsey Taylor
+
 Sunoo Bertsch
 
 Kieran Jones
 
-Kelsey Taylor
+
